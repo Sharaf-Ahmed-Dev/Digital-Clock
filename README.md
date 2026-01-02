@@ -3,7 +3,7 @@
 A simple digital clock web application that displays the current hours, minutes, and seconds in real time.
 
 ## Live Demo
-🚀 [Click here to view the live demo](https://sharaf-ahmed-dev.github.io/Digital-Clock/)
+🚀 [Click here to view the live demo](https://sharaf-ahmed-dev.github.io/digital-clock/)
 
 ## Features
 - Real-time clock update
@@ -15,5 +15,6 @@ A simple digital clock web application that displays the current hours, minutes,
 - HTML
 - CSS
 - JavaScript
+
 
 
